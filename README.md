@@ -25,7 +25,3 @@ You can see the [Certificate of Completion](https://github.com/AlessandroCorradi
 
 <br/>
 
-### ⚠️ Disclaimer ⚠️
-**Please, don't fork or copy this repository.**
-
-**Big Data Specialization from University of California San Diego, is a very easy and straight forward path. You can complete it with a minimal effort.**
